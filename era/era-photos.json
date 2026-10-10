@@ -166,5 +166,2168 @@
   "credit": "국립민속박물관",
   "license": "공공누리 제1유형",
   "page": "https://www.emuseum.go.kr/detail?relicId=PS0100200100105823400000"
+ },
+ "C01": {
+  "file": "C01.webp",
+  "caption": "냄비에서 끓는 물",
+  "credit": "GRAN / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Boiling_water.jpg"
+ },
+ "C03": {
+  "file": "C03.webp",
+  "caption": "물방울",
+  "credit": "José Manuel Suárez / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Water_drop_001.jpg"
+ },
+ "C04": {
+  "file": "C04.webp",
+  "caption": "소금(염화나트륨) 결정 · 암염",
+  "credit": "IvanSakhno / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Halite_crystal_with_water_bubble.jpg"
+ },
+ "C05": {
+  "file": "C05.webp",
+  "caption": "비 갠 뒤 하늘에 뜬 무지개",
+  "credit": "Paul-shy / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:A_rainbow_appears_in_the_sky_after_the_rain_shower.jpg"
+ },
+ "C06": {
+  "file": "C06.webp",
+  "caption": "태양계 행성들(NASA 합성 사진)",
+  "credit": "NASA / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Solar_System_Montage_-_GPN-2000-000454.jpg"
+ },
+ "C07": {
+  "file": "C07.webp",
+  "caption": "우주에서 본 지구 · 태평양 쪽(NASA)",
+  "credit": "NASA Earth Observatory/Lauren Dauphin / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Powerful_Storms_Continue_to_Prowl_the_Pacific_(1431752_-_epic_20260927).jpg"
+ },
+ "C08": {
+  "file": "C08.webp",
+  "caption": "에베레스트산 · 해발 약 8,848m",
+  "credit": "Vyacheslav Argenberg / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Everest,_Himalayas.jpg"
+ },
+ "C10": {
+  "file": "C10.webp",
+  "caption": "하늘에서 본 한라산",
+  "credit": "LG전자 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Hallasan_Above.jpg"
+ },
+ "C11": {
+  "file": "C11.webp",
+  "caption": "안동을 흐르는 낙동강",
+  "credit": "Robert at Picasa / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korea-Spring_in_Andong-Nakdong_River-01.jpg"
+ },
+ "C12": {
+  "file": "C12.webp",
+  "caption": "무궁화 · 우리나라 나라꽃",
+  "credit": "Anna.Massini / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Hibiscus_syriacus_colore_esterno_viola_e_interno_fucsia.jpg"
+ },
+ "C13": {
+  "file": "C13.webp",
+  "caption": "태극기 · 네 귀퉁이에 건곤감리",
+  "credit": "미 해병대 / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea_6468214.jpg"
+ },
+ "C17": {
+  "file": "C17.webp",
+  "caption": "동짓날 먹는 팥죽",
+  "credit": "wizdata / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Patjuk.jpg"
+ },
+ "C18": {
+  "file": "C18.webp",
+  "caption": "추석에 빚는 송편",
+  "credit": "USAG- Humphreys / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Songpyeon_5.jpg"
+ },
+ "C19": {
+  "file": "C19.webp",
+  "caption": "정월대보름 부럼(호두·땅콩·밤 등)",
+  "credit": "서헌강(사진작가) / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:%EB%B6%80%EB%9F%BC_Bureom_00152150.jpg"
+ },
+ "C21": {
+  "file": "C21.webp",
+  "caption": "지구 대기 너머로 보이는 보름달 · 1999년 우주왕복선 디스커버리호 촬영",
+  "credit": "NASA / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Full_moon_partially_obscured_by_atmosphere.jpg"
+ },
+ "C22": {
+  "file": "C22.webp",
+  "caption": "아폴로 17호에서 찍은 지구 · 1972년",
+  "credit": "NASA / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg"
+ },
+ "C23": {
+  "file": "C23.webp",
+  "caption": "뉴턴 『프린키피아』 초판 · 1687년",
+  "credit": "Joseph Streater / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Newton%27s_Philosophiae_Naturalis_Principia_Mathematica_1687_(presentation_copy_to_James_II).jpg"
+ },
+ "C25": {
+  "file": "C25.webp",
+  "caption": "푸른곰팡이(페니실륨) · 페니실린을 만드는 곰팡이",
+  "credit": "Dr Mary Gillham Archive Project / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Penicillium_notatum_on_beetroot_vinegar._June_1965_(22843246888).jpg"
+ },
+ "C26": {
+  "file": "C26.webp",
+  "caption": "백열전구",
+  "credit": "Jakub \"Ježísheck\" Kolář / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Small_incandescent_light_bulb_with_standard_screw_(E27).jpg"
+ },
+ "C29": {
+  "file": "C29.webp",
+  "caption": "다이아몬드",
+  "credit": "Seth Lemmons / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Princess_cut_diamond,_Boise_Diamonds_-_4750705838,_cropped.jpg"
+ },
+ "C30": {
+  "file": "C30.webp",
+  "caption": "자연에서 나는 은(자연은)",
+  "credit": "Darla Sondrol / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Native_silver_(GeoDIL_number_-_891).jpg"
+ },
+ "C31": {
+  "file": "C31.webp",
+  "caption": "붉게 녹슨 쇠",
+  "credit": "Dave_S. from Witney, England / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Rust_in_peace_(2563185527).jpg"
+ },
+ "C32": {
+  "file": "C32.webp",
+  "caption": "배추김치",
+  "credit": "Jeremy Keith / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Kimchi-08.jpg"
+ },
+ "C34": {
+  "file": "C34.webp",
+  "caption": "축구장",
+  "credit": "Samson Ssemakadde / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_K-Wonder_football_pitch_2.jpg"
+ },
+ "C35": {
+  "file": "C35.webp",
+  "caption": "야구장 · 다이아몬드 모양의 내야",
+  "credit": "Frettie / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Pitcher_field_of_baseball_field_in_T%C5%99eb%C3%AD%C4%8D,_T%C5%99eb%C3%AD%C4%8D_District.jpg"
+ },
+ "C36": {
+  "file": "C36.webp",
+  "caption": "피아노 건반 · 흰 건반 52개, 검은 건반 36개",
+  "credit": "Shixart1985 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_the_old_broken_piano_keys.jpg"
+ },
+ "C37": {
+  "file": "C37.webp",
+  "caption": "바둑판",
+  "credit": "국립민속박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100200100103963600000"
+ },
+ "C40": {
+  "file": "C40.webp",
+  "caption": "비행기 창밖으로 본 구름 위 하늘",
+  "credit": "Daniel Ramirez from Honolulu, USA / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Flying_to_LAX_(6989408237).jpg"
+ },
+ "C43": {
+  "file": "C43.webp",
+  "caption": "개기일식 때 보이는 태양의 코로나 · 2024년",
+  "credit": "Brucewaters / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:2024_Total_Solar_Eclipse_Corona.jpg"
+ },
+ "C44": {
+  "file": "C44.webp",
+  "caption": "북극성을 중심으로 도는 별의 궤적(장노출 사진)",
+  "credit": "Youniverse Multiverse / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Star_stack_Star_trail.jpg"
+ },
+ "C46": {
+  "file": "C46.webp",
+  "caption": "벽시계",
+  "credit": "Dejan Krsmanovic / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Interesting_Wall_Clock_(41511937040).jpg"
+ },
+ "C48": {
+  "file": "C48.webp",
+  "caption": "사하라 사막의 모래 언덕 · 이집트",
+  "credit": "Vyacheslav Argenberg / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Sand_dune_in_the_desert,_Sahara_Desert,_Egypt.jpg"
+ },
+ "C49": {
+  "file": "C49.webp",
+  "caption": "위성에서 본 제주도(NASA)",
+  "credit": "NASA / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Jeju_Island.jpg"
+ },
+ "C50": {
+  "file": "C50.webp",
+  "caption": "생쥐",
+  "credit": "kcthetc1 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mus_musculus_131536695.jpg"
+ },
+ "C52": {
+  "file": "C52.webp",
+  "caption": "전 신사임당 「초충도」 · 16세기",
+  "credit": "신사임당 / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:%EC%B4%88%EC%B6%A9%EB%8F%84(%E8%8D%89%E8%9F%B2%E5%9C%96,_Chochungdo).jpg"
+ },
+ "C53": {
+  "file": "C53.webp",
+  "caption": "김장 · 함께 버무리는 배추김치",
+  "credit": "USAG- Humphreys / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Gimjang_in_Gaemi_Village,_1_December_2012.jpg"
+ },
+ "C56": {
+  "file": "C56.webp",
+  "caption": "광화문 · 경복궁의 정문",
+  "credit": "Huntsmanleader / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gwanghwamun_Close_Up_of_Roof_and_Title.jpg"
+ },
+ "C57": {
+  "file": "C57.webp",
+  "caption": "숭례문(남대문) 야경",
+  "credit": "AndrewEick / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korea-Seoul-Namdaemun-Sungnyemun-18.jpg"
+ },
+ "C61": {
+  "file": "C61.webp",
+  "caption": "NASA 태양 관측 위성(SDO)이 찍은 태양",
+  "credit": "NASA/SDO (AIA) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg"
+ },
+ "C62": {
+  "file": "C62.webp",
+  "caption": "국제우주정거장에서 본 밤의 지구 · 소리가 전해지지 않는 우주",
+  "credit": "Scott Kelly / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Good_Morning_From_the_International_Space_Station.jpg"
+ },
+ "C63": {
+  "file": "C63.webp",
+  "caption": "들판 위에 뜬 무지개",
+  "credit": "Gary Troester, USDA FSA California / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Rainbow_over_santa_maria_ca.jpg"
+ },
+ "C71": {
+  "file": "C71.webp",
+  "caption": "훈민정음 언해본(한글로 풀어 쓴 책)",
+  "credit": "조선(15세기 간행) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Hunminjeongeum_Eonhae_13.jpg"
+ },
+ "C73": {
+  "file": "C73.webp",
+  "caption": "고양이",
+  "credit": "Jakub Hałun / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Cat_in_Piran,_Slovenia,_20240504_1600_8594.jpg"
+ },
+ "C74": {
+  "file": "C74.webp",
+  "caption": "설날 떡국",
+  "credit": "한국교육방송공사 / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Tteokguk_(rice_cake_soup)_02.jpg"
+ },
+ "C77": {
+  "file": "C77.webp",
+  "caption": "봉분(둥글게 흙을 쌓은 무덤)",
+  "credit": "Mathew Schwartz / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Grave_Site_Of_A_Korean_Prince_(175732401).jpeg"
+ },
+ "C78": {
+  "file": "C78.webp",
+  "caption": "김홍도 「씨름」 · 단원 풍속도첩",
+  "credit": "김홍도 / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Danwon-Ssireum.jpg"
+ },
+ "C79": {
+  "file": "C79.webp",
+  "caption": "북(소리북)",
+  "credit": "국립국악원",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100204100200029900000"
+ },
+ "C80": {
+  "file": "C80.webp",
+  "caption": "장구 · 사물놀이 악기 중 하나",
+  "credit": "메트로폴리탄 미술관 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Changgo_(%EC%9E%A5%EA%B5%AC_)_-_MET_89.4.141.jpg"
+ },
+ "C83": {
+  "file": "C83.webp",
+  "caption": "백제 시대 온돌 유적",
+  "credit": "Puzzlet Chung / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Baekje_Ondol_site.jpg"
+ },
+ "C88": {
+  "file": "C88.webp",
+  "caption": "바둑판에 바둑돌을 놓는 모습",
+  "credit": "Luis de Bethencourt from Madrid, Spain / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Game_of_go_-_placing_a_white_stone.jpg"
+ },
+ "C89": {
+  "file": "C89.webp",
+  "caption": "가야금",
+  "credit": "국립국악원",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100204100200069600000"
+ },
+ "C91": {
+  "file": "C91.webp",
+  "caption": "빛의 삼원색(빨강·초록·파랑)을 겹친 모습",
+  "credit": "Pko / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Additive_color_mixing_simulated.png"
+ },
+ "C94": {
+  "file": "C94.webp",
+  "caption": "섭씨(℃)와 화씨(℉)가 함께 있는 온도계",
+  "credit": "Olibac / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:FahrenheitCelsius.jpg"
+ },
+ "C95": {
+  "file": "C95.webp",
+  "caption": "미국 국가 킬로그램 원기 K4 · 1kg의 기준이던 추",
+  "credit": "NIST / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Standard_kilogram,_2.jpg"
+ },
+ "C98": {
+  "file": "C98.webp",
+  "caption": "지리산 능선 · 백두대간의 남쪽 끝",
+  "credit": "eimoberg / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korea-Mountain-Jirisan-07.jpg"
+ },
+ "C100": {
+  "file": "C100.webp",
+  "caption": "바람에 휘날리는 태극기",
+  "credit": "Erin A. Kirk-Cuomo / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:The_South_Korean_flag_flaps_Oct._2,_2013,_in_Seoul,_South_Korea_131002-D-BW835-1172.jpg"
+ },
+ "C102": {
+  "file": "C102.webp",
+  "caption": "불판에 굽는 삼겹살",
+  "credit": "chomjong / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Samgyeopsal-gui_1.jpg"
+ },
+ "C103": {
+  "file": "C103.webp",
+  "caption": "껍데기를 깐 삶은 달걀",
+  "credit": "HungryHuy / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Hard_boiled_eggs_for_thit_heo_kho,_peeled.jpg"
+ },
+ "C105": {
+  "file": "C105.webp",
+  "caption": "고구마 튀김",
+  "credit": "karendotcom127 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean.cuisine-Goguma_twigim-01.jpg"
+ },
+ "C106": {
+  "file": "C106.webp",
+  "caption": "도마 위에 썬 양파",
+  "credit": "HungryHuy / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Chopped_onions_on_a_cutting_board_with_knife.jpg"
+ },
+ "C107": {
+  "file": "C107.webp",
+  "caption": "껍질이 초록으로 변한 감자 · 솔라닌 주의",
+  "credit": "RIT RAJARSHI / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Green-potato.jpg"
+ },
+ "C108": {
+  "file": "C108.webp",
+  "caption": "고등어구이 정식",
+  "credit": "毒島みるく / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Salty_grilled_mackerel_lunch_of_Yoshinoya.jpg"
+ },
+ "C109": {
+  "file": "C109.webp",
+  "caption": "김치찌개",
+  "credit": "Daderot / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kimchi_jjigae_-_San_Francisco,_CA.jpg"
+ },
+ "C110": {
+  "file": "C110.webp",
+  "caption": "시금치 된장국",
+  "credit": "쑤기언니 / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Sigeumchi-doenjang-guk.jpg"
+ },
+ "C111": {
+  "file": "C111.webp",
+  "caption": "돌 위에서 굽는 군고구마",
+  "credit": "Brücke-Osteuropa / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Roasted_Sweet_Potatoes_in_South_Korea.jpg"
+ },
+ "C113": {
+  "file": "C113.webp",
+  "caption": "우유 한 잔",
+  "credit": "NIAID / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Glass_of_Milk_(33657535532).jpg"
+ },
+ "C114": {
+  "file": "C114.webp",
+  "caption": "도마 위에서 칼로 채소 다듬기",
+  "credit": "Shixart1985 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_prepares_vegetables_in_kitchen_with_cutting_board_and_knife_during_meal_preparation.jpg"
+ },
+ "C117": {
+  "file": "C117.webp",
+  "caption": "달걀 프라이",
+  "credit": "Kurt Kaiser / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fried_egg_sunny_side_up_6.jpg"
+ },
+ "C118": {
+  "file": "C118.webp",
+  "caption": "새우 볶음밥",
+  "credit": "집밥쿡 / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Geon-saeu-bokkeum-bap.jpg"
+ },
+ "C119": {
+  "file": "C119.webp",
+  "caption": "기름에 튀기는 모습",
+  "credit": "Wilhelmmarvel / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Frying_Bean_cake_Series_1.jpg"
+ },
+ "C120": {
+  "file": "C120.webp",
+  "caption": "데친 시금치로 무친 나물",
+  "credit": "karendotcom127 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean.cuisine-Sigeumchi_namul-01.jpg"
+ },
+ "C121": {
+  "file": "C121.webp",
+  "caption": "칼로 다진 마늘",
+  "credit": "褒忠國中 雲端網 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Minced_garlic_at_a_culinary_class_in_Baozhong_Junior_High_School_2014-11-07.jpg"
+ },
+ "C124": {
+  "file": "C124.webp",
+  "caption": "미역국",
+  "credit": "karendotcom127 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_soup-Miyeokguk-01.jpg"
+ },
+ "C125": {
+  "file": "C125.webp",
+  "caption": "카레라이스",
+  "credit": "wizdata / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Curry_rice.jpg"
+ },
+ "C126": {
+  "file": "C126.webp",
+  "caption": "두부",
+  "credit": "사랑(Sarang) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:%EC%B4%88.jpg"
+ },
+ "C127": {
+  "file": "C127.webp",
+  "caption": "반으로 자른 키위",
+  "credit": "Renee Comet (Photographer) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Kiwi.jpg"
+ },
+ "C128": {
+  "file": "C128.webp",
+  "caption": "부침개(전)",
+  "credit": "경빈마마 / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Banga_buchimgae_(Korean_mint_pancake)_(Agastache_rugosa).jpg"
+ },
+ "C129": {
+  "file": "C129.webp",
+  "caption": "밀가루",
+  "credit": "Ranveig / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Mj%C3%B8l.jpg"
+ },
+ "C131": {
+  "file": "C131.webp",
+  "caption": "생강",
+  "credit": "Rubel Das / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginger_Root_(Zingiber_officinale).jpg"
+ },
+ "C132": {
+  "file": "C132.webp",
+  "caption": "구운 가래떡",
+  "credit": "EBS / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:Roasted_garae-tteok_and_sweet_potatoes.png"
+ },
+ "C134": {
+  "file": "C134.webp",
+  "caption": "흐르는 물에 씻는 채소",
+  "credit": "Datariumrex / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:14._Rinse_carrots.jpg"
+ },
+ "C135": {
+  "file": "C135.webp",
+  "caption": "가스레인지 위의 압력솥",
+  "credit": "Bhaskaranaidu / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Coker_on_stove.JPG"
+ },
+ "C137": {
+  "file": "C137.webp",
+  "caption": "샐러드 채소",
+  "credit": "Daderot / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Salad_of_mixed_greens_-_Massachusetts.jpg"
+ },
+ "C138": {
+  "file": "C138.webp",
+  "caption": "중탕 냄비(바인마리)",
+  "credit": "grongar / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Bain-marie.jpg"
+ },
+ "C139": {
+  "file": "C139.webp",
+  "caption": "굽고 잠시 두었다가 썬 고기",
+  "credit": "H. Alexander Talbot / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:SkirtSteakRoastSliced_(8325752646).jpg"
+ },
+ "C140": {
+  "file": "C140.webp",
+  "caption": "콩나물",
+  "credit": "Hyeon-Jeong Suk / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Kongnamul_(soybean_sprout)_2.jpg"
+ },
+ "C141": {
+  "file": "C141.webp",
+  "caption": "볶은 커피 원두",
+  "credit": "Andreas Poike / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans_(14562943389).jpg"
+ },
+ "C142": {
+  "file": "C142.webp",
+  "caption": "라면과 김치",
+  "credit": "Hyeon-Jeong Suk / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Ramyeon_and_kimchi.jpg"
+ },
+ "C143": {
+  "file": "C143.webp",
+  "caption": "계량컵",
+  "credit": "Estabiano / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Measuring_Cups.jpg"
+ },
+ "C146": {
+  "file": "C146.webp",
+  "caption": "마른 멸치",
+  "credit": "myllissa / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_anchovies.jpg"
+ },
+ "C147": {
+  "file": "C147.webp",
+  "caption": "삶은 달걀",
+  "credit": "Daderot / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Eggs,_hard-boiled_-_Massachusetts.jpg"
+ },
+ "C148": {
+  "file": "C148.webp",
+  "caption": "끓는 물에 열탕 소독하는 유리병",
+  "credit": "Nutrition, Food Safety & Health / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Jars_of_applesauce_in_boiling_water_bath_canner.jpg"
+ },
+ "C149": {
+  "file": "C149.webp",
+  "caption": "냄비에서 부르르 끓어오르는 물",
+  "credit": "Tomwsulcer / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Water_boiling_in_a_pot_on_a_stove.jpg"
+ },
+ "C151": {
+  "file": "C151.webp",
+  "caption": "김",
+  "credit": "Startandstar / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_seaweed_Gim_(2).jpg"
+ },
+ "C152": {
+  "file": "C152.webp",
+  "caption": "쌀 씻은 뿌연 물",
+  "credit": "Obsidian Soul / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rice_wash_(Philippines)_03.jpg"
+ },
+ "C153": {
+  "file": "C153.webp",
+  "caption": "전자레인지",
+  "credit": "Karamanskaya / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Microwave_oven_%22Erisson%22.jpg"
+ },
+ "C155": {
+  "file": "C155.webp",
+  "caption": "장독대 · 간장·된장을 담그는 항아리",
+  "credit": "Bernard Gagnon / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Jangdokdae_in_Naganeupseong_01.jpg"
+ },
+ "C156": {
+  "file": "C156.webp",
+  "caption": "고춧가루",
+  "credit": "Stacy Spensley / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Gochugaru.jpg"
+ },
+ "C157": {
+  "file": "C157.webp",
+  "caption": "두부조림",
+  "credit": "세미짱 / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Dubu-jorim.jpg"
+ },
+ "C159": {
+  "file": "C159.webp",
+  "caption": "된장",
+  "credit": "Badagnani / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Doenjangwithbeans.jpg"
+ },
+ "C160": {
+  "file": "C160.webp",
+  "caption": "흐르는 물에 손 씻기",
+  "credit": "MarkBuckawicki / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hand_washing_man.jpg"
+ },
+ "D114": {
+  "file": "D114.webp",
+  "caption": "무선충전기 위의 스마트폰",
+  "credit": "LG전자 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Inductive_charging_of_LG_smartphone_(2).jpg"
+ },
+ "D128": {
+  "file": "D128.webp",
+  "caption": "무선 이어폰 · 블루투스로 연결한다",
+  "credit": "WrS.tm.pl / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:ActiveSound_wireless_earbuds_by_Hykker_(POJM200483)_Brand_of_Biedronka.jpg"
+ },
+ "D145": {
+  "file": "D145.webp",
+  "caption": "무선 공유기",
+  "credit": "ajay_suresh / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Wireless_Router_(50841204223).jpg"
+ },
+ "D149": {
+  "file": "D149.webp",
+  "caption": "금이 간 화면",
+  "credit": "Wiki.cullin / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Broken_Samsung_Tablet_-_Cracked_Screen.jpg"
+ },
+ "D154": {
+  "file": "D154.webp",
+  "caption": "USB 충전기",
+  "credit": "Markus Bärlocher / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:12V-5V-USB-Adapter.jpg"
+ },
+ "E03": {
+  "file": "E03.webp",
+  "caption": "농협 적금증서",
+  "credit": "국립민속박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100200100103989700000"
+ },
+ "E19": {
+  "file": "E19.webp",
+  "caption": "국민연금 가입자 증서",
+  "credit": "예천박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100331500101302400000"
+ },
+ "E32": {
+  "file": "E32.webp",
+  "caption": "국민주택채권(나라가 발행한 채권 증서)",
+  "credit": "국립민속박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100200100109604300000"
+ },
+ "E51": {
+  "file": "E51.webp",
+  "caption": "주택청약종합저축 통장",
+  "credit": "국립민속박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100200100108912300000"
+ },
+ "G01": {
+  "file": "G01.webp",
+  "caption": "보리밭",
+  "credit": "Gerda Arendt / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Barley_field,_Ehrenbach,_evening_sun.jpg"
+ },
+ "G10": {
+  "file": "G10.webp",
+  "caption": "됫박(곡식을 되던 그릇) · 열 되가 한 말",
+  "credit": "전라남도농업박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100302500101042200000"
+ },
+ "G27": {
+  "file": "G27.webp",
+  "caption": "뻥튀기",
+  "credit": "kimsco / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ppeong-twigi.jpg"
+ },
+ "G29": {
+  "file": "G29.webp",
+  "caption": "무선호출기(삐삐)",
+  "credit": "안산산업역사박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100334200100069100000"
+ },
+ "G30": {
+  "file": "G30.webp",
+  "caption": "전화선에 연결하던 외장 모뎀",
+  "credit": "Frunze103 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:External_33.6k_serial_dial-up_modem.jpg"
+ },
+ "G33": {
+  "file": "G33.webp",
+  "caption": "카세트테이프",
+  "credit": "Inpriva / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:DAT_%26_Compact_Cassette_hor.jpg"
+ },
+ "G34": {
+  "file": "G34.webp",
+  "caption": "비디오테이프(VHS)",
+  "credit": "DiscoA340 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:VHS_Tape_(Front).jpg"
+ },
+ "G35": {
+  "file": "G35.webp",
+  "caption": "휴대용 카세트 플레이어",
+  "credit": "국립민속박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100200100110424300000"
+ },
+ "G43": {
+  "file": "G43.webp",
+  "caption": "공중전화 카드",
+  "credit": "국립한글박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100203400600840200000"
+ },
+ "G58": {
+  "file": "G58.webp",
+  "caption": "디지털카메라",
+  "credit": "Packer1028 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:12_MP_digital_camera_-_red.jpg"
+ },
+ "G106": {
+  "file": "G106.webp",
+  "caption": "486 CPU 칩의 내부 회로(다이)",
+  "credit": "Pauli Rautakorpi / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Intel_80486_DX2_P24S_die.JPG"
+ },
+ "G108": {
+  "file": "G108.webp",
+  "caption": "농구 골대",
+  "credit": "MarkBuckawicki / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Basketball_Hoop.jpg"
+ },
+ "H01": {
+  "file": "H01.webp",
+  "caption": "유리 체온계",
+  "credit": "Wellcome Collection / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Clinical_thermometer,_Europe,_1851-1900_Wellcome_L0058018.jpg"
+ },
+ "H20": {
+  "file": "H20.webp",
+  "caption": "커피와 원두",
+  "credit": "mcfoodie / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffee_cup_and_coffee_bean.jpg"
+ },
+ "H22": {
+  "file": "H22.webp",
+  "caption": "현미",
+  "credit": "jules / stonesoup / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Par_cooked_brown_rice_-_stonesoup_cropped.jpg"
+ },
+ "H25": {
+  "file": "H25.webp",
+  "caption": "혈압계",
+  "credit": "Jiří Sedláček (Frettie) / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Clinical_sphygmomanometer_in_the_T%C5%99eb%C3%AD%C4%8D,_T%C5%99eb%C3%AD%C4%8D_District.jpg"
+ },
+ "H32": {
+  "file": "H32.webp",
+  "caption": "물 한 잔",
+  "credit": "MarshyBoardwalk / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Glass_of_water_refracting_light.jpg"
+ },
+ "H33": {
+  "file": "H33.webp",
+  "caption": "흐르는 물에 손 씻기",
+  "credit": "Beendy234 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Washing_hand_2.jpg"
+ },
+ "H36": {
+  "file": "H36.webp",
+  "caption": "물 한 잔",
+  "credit": "W.carter / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_glass_with_carbonated_water.jpg"
+ },
+ "H44": {
+  "file": "H44.webp",
+  "caption": "칫솔",
+  "credit": "Marie-Lan Nguyen / 위키미디어 공용",
+  "license": "CC BY 2.5 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Head_toothbrush_blue_transparent.jpg"
+ },
+ "H85": {
+  "file": "H85.webp",
+  "caption": "커피",
+  "credit": "Edward / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_in_Caf%C3%A9_Butter_-_Prenzlauer_Berg,_Berlin.jpg"
+ },
+ "H92": {
+  "file": "H92.webp",
+  "caption": "이어폰",
+  "credit": "Daniel Novta / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Earbuds_(8413160447).jpg"
+ },
+ "K01": {
+  "file": "K01.webp",
+  "caption": "하늘에서 본 세종대왕릉(영릉) · 경기 여주",
+  "credit": "문화재청 / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:%EC%97%AC%EC%A3%BC_%EC%98%81%EB%A6%89%EA%B3%BC_%EC%98%81%EB%A6%89_%EC%84%B8%EC%A2%85_%EC%98%81%EB%A6%89_%EB%8A%A5%EC%B9%A8(%ED%95%AD%EA%B3%B5).jpg"
+ },
+ "K02": {
+  "file": "K02.webp",
+  "caption": "훈민정음 해례본 · 1446년",
+  "credit": "조선(1446년 간행) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Hunminjeongeum_Haerye_10.jpg"
+ },
+ "K03": {
+  "file": "K03.webp",
+  "caption": "위성에서 본 진도 울돌목(명량) 일대",
+  "credit": "Korea Aerospace Research Institute / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:%EC%A7%84%EB%8F%84_%EC%9A%B8%EB%8F%8C%EB%AA%A9_(1379).jpeg"
+ },
+ "K04": {
+  "file": "K04.webp",
+  "caption": "「부산진순절도」 일부 · 1592년 임진왜란 부산진 싸움(1760년 그림)",
+  "credit": "작자 미상(1760년) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%9E%D1%81%D0%B0%D0%B4%D0%B0_%D0%9F%D1%83%D1%81%D0%B0%D0%BD%D0%B0_(1592).png"
+ },
+ "K05": {
+  "file": "K05.webp",
+  "caption": "조선 태조 이성계 어진 · 전주 경기전",
+  "credit": "Bernard Gagnon / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_on_King_Taejo.jpg"
+ },
+ "K07": {
+  "file": "K07.webp",
+  "caption": "3·1 독립선언서 · 1919년",
+  "credit": "민족대표 33인 / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Proclamation_of_Korean_Independence.jpg"
+ },
+ "K10": {
+  "file": "K10.webp",
+  "caption": "하얼빈역 · 중국 헤이룽장성",
+  "credit": "SmallSonMarex / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Harbin_railway_station_08.01.2026_(2).jpg"
+ },
+ "K12": {
+  "file": "K12.webp",
+  "caption": "『동의보감』 · 허준",
+  "credit": "Ulrich Lange, Bochum, Germany / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Donguibogam_(one_page_of_one_book).jpg"
+ },
+ "K13": {
+  "file": "K13.webp",
+  "caption": "「대동여지도」 · 김정호, 1861년",
+  "credit": "Gim Jeong-ho / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Daedongyeojido,_with_annotations_from_Dongyeodo.jpg"
+ },
+ "K14": {
+  "file": "K14.webp",
+  "caption": "『화성성역의궤』 속 거중기 그림",
+  "credit": "국립중앙박물관 e뮤지엄 / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:Hwaseong_seongyeok_uigwe_24.jpg"
+ },
+ "K15": {
+  "file": "K15.webp",
+  "caption": "앙부일구(해시계) · 경복궁",
+  "credit": "Nina R / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_Angbuilgu_(50649407596).jpg"
+ },
+ "K16": {
+  "file": "K16.webp",
+  "caption": "첨성대 · 경북 경주",
+  "credit": "Dudva / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cheomseongdae_astronomical_observatory.jpg"
+ },
+ "K17": {
+  "file": "K17.webp",
+  "caption": "해인사 장경판전에 보관된 팔만대장경판",
+  "credit": "Bernard Gagnon / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tripitaka_Koreana_03.jpg"
+ },
+ "K20": {
+  "file": "K20.webp",
+  "caption": "사발통문 · 1893년 동학농민운동 격문",
+  "credit": "작자 미상(1893년) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Sabal_Tongmun.jpg"
+ },
+ "K21": {
+  "file": "K21.webp",
+  "caption": "경교장 · 김구 선생이 머물던 곳, 서울",
+  "credit": "S. W. Moon / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:%EA%B2%BD%EA%B5%90%EC%9E%A5.jpg"
+ },
+ "K22": {
+  "file": "K22.webp",
+  "caption": "서대문형무소 옛 건물 · 서울",
+  "credit": "Dudva / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Seodaemun_Prison,_April_2023_(2).jpg"
+ },
+ "K23": {
+  "file": "K23.webp",
+  "caption": "문무대왕릉(대왕암) · 경북 경주 앞바다",
+  "credit": "Jo from Brisbane, Australia / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Daewangam-01.jpg"
+ },
+ "K25": {
+  "file": "K25.webp",
+  "caption": "불국사 청운교·백운교 · 경북 경주",
+  "credit": "Gustavo M / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Bulguksa_-_Gustavo_M.jpg"
+ },
+ "K26": {
+  "file": "K26.webp",
+  "caption": "『조선왕조실록』 태백산사고본",
+  "credit": "Korea Heritage Service / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:%EC%A1%B0%EC%84%A0%EC%99%95%EC%A1%B0%EC%8B%A4%EB%A1%9D_%ED%83%9C%EB%B0%B1%EC%82%B0%EC%82%AC%EA%B3%A0%EB%B3%B8.jpg"
+ },
+ "K27": {
+  "file": "K27.webp",
+  "caption": "6·25 전쟁 정전협정문 · 1953년",
+  "credit": "United States Department of State / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_Armistice_Agreement_in_Chinese_(1953).jpg"
+ },
+ "K29": {
+  "file": "K29.webp",
+  "caption": "서울올림픽 주경기장(잠실종합운동장)",
+  "credit": "Seoul Institute / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Seoul_Sports_Complex.jpg"
+ },
+ "K30": {
+  "file": "K30.webp",
+  "caption": "경부고속도로 옥천 나들목 요금소",
+  "credit": "LandAndTree / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gyeongbu_Expressway_Okcheon_IC_Tollgate_20240729.jpg"
+ },
+ "K34": {
+  "file": "K34.webp",
+  "caption": "남한산성 숭렬전 · 경기 광주",
+  "credit": "문화재청 / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:%EB%82%A8%ED%95%9C%EC%82%B0%EC%84%B1_%EC%88%AD%EB%A0%AC%EC%A0%84.jpg"
+ },
+ "K35": {
+  "file": "K35.webp",
+  "caption": "홍길동전(안성판, 1917년 추정)",
+  "credit": "국립한글박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100203400600715400000"
+ },
+ "K36": {
+  "file": "K36.webp",
+  "caption": "『삼국유사』 · 일연",
+  "credit": "Salamander724 / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Memorabilia_of_the_Three_Kingdoms_in_museum.jpg"
+ },
+ "K37": {
+  "file": "K37.webp",
+  "caption": "「콜럼버스의 상륙」 · 존 밴더린 그림",
+  "credit": "John Vanderlyn / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Landing_of_Columbus_(2).jpg"
+ },
+ "K38": {
+  "file": "K38.webp",
+  "caption": "「바스티유 습격」 · 장피에르 우엘 그림, 1789년",
+  "credit": "Jean-Pierre Houël / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Prise_de_la_Bastille_clean.jpg"
+ },
+ "K40": {
+  "file": "K40.webp",
+  "caption": "경복궁 수정전 · 세종 때 집현전이 있던 자리",
+  "credit": "Royal Palaces and Tombs Center / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:%EA%B2%BD%EB%B3%B5%EA%B6%81_%EC%88%98%EC%A0%95%EC%A0%84_%EC%A0%84%EC%B2%B4_%EC%A0%84%EA%B2%BD(%EA%B6%81%EB%8A%A5%EC%9C%A0%EC%A0%81%EB%B3%B8%EB%B6%80)-min.jpg"
+ },
+ "K42": {
+  "file": "K42.webp",
+  "caption": "행주산성 충장사 · 권율 장군을 모신 사당",
+  "credit": "IRTC1015 / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Chungjangsa.jpg"
+ },
+ "K43": {
+  "file": "K43.webp",
+  "caption": "진주성 촉석루와 남강",
+  "credit": "Knag Byeong Kee / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Choksuk_Pavillion-JinjuCastle.jpg"
+ },
+ "K44": {
+  "file": "K44.webp",
+  "caption": "훈민정음 해례본 · 자음과 모음의 원리를 설명한 쪽",
+  "credit": "조선(1446년 간행) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Hunminjeongeum_Haerye_03.jpg"
+ },
+ "K45": {
+  "file": "K45.webp",
+  "caption": "측우기 · 공주 충청감영 측우기(국보)",
+  "credit": "문화재청 / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:%EA%B3%B5%EC%A3%BC_%EC%B6%A9%EC%B2%AD%EA%B0%90%EC%98%81_%EC%B8%A1%EC%9A%B0%EA%B8%B0.jpg"
+ },
+ "K48": {
+  "file": "K48.webp",
+  "caption": "『열하일기』 · 박지원",
+  "credit": "박지원 / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Pak_Chiw%C5%8Fn_Yeolha_ilgi.jpg"
+ },
+ "K49": {
+  "file": "K49.webp",
+  "caption": "김홍도 「장터길」 · 단원 풍속도첩",
+  "credit": "Kim Hong-do / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Danwon_Jangteogil.jpg"
+ },
+ "K50": {
+  "file": "K50.webp",
+  "caption": "정선 「인왕제색도」 · 1751년",
+  "credit": "Jeong Seon / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Inwangjesaekdo.jpg"
+ },
+ "K51": {
+  "file": "K51.webp",
+  "caption": "무령왕릉 무덤 안 · 충남 공주",
+  "credit": "Bernard Gagnon / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:King_Muryeong_Tomb_01.jpg"
+ },
+ "K54": {
+  "file": "K54.webp",
+  "caption": "목화 · 솜이 터져 나온 목화 열매",
+  "credit": "Dr.S.Soundarapandian / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:%E0%AE%AA%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF1.jpg"
+ },
+ "K55": {
+  "file": "K55.webp",
+  "caption": "덕수궁 중명전 · 1905년 을사늑약이 강제로 맺어진 곳",
+  "credit": "문화재청 / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:%EC%A4%91%EB%AA%85%EC%A0%84_(2010).jpg"
+ },
+ "K61": {
+  "file": "K61.webp",
+  "caption": "광개토대왕릉비 탁본(일부)",
+  "credit": "도쿄국립박물관(미즈타니 탁본) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Gwanggaeto_stele_Mizutani_Rubbing05.jpg"
+ },
+ "K64": {
+  "file": "K64.webp",
+  "caption": "「척경입비도」 · 윤관이 동북 9성을 쌓고 비석을 세우는 장면(북관유적도첩)",
+  "credit": "작자 미상(『북관유적도첩』) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:%EB%B6%81%EA%B4%80%EC%9C%A0%EC%A0%81%EB%8F%84%EC%B2%A9-%EC%B2%99%EA%B2%BD%EC%9E%85%EB%B9%84%EB%8F%84.jpg"
+ },
+ "K69": {
+  "file": "K69.webp",
+  "caption": "훈민정음 언해본 첫머리 · 「나랏말ᄊᆞ미 듕귁에 달아…」",
+  "credit": "조선(15세기 간행) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Hunminjeongeum_Eonhae_05.jpg"
+ },
+ "K73": {
+  "file": "K73.webp",
+  "caption": "성균관 탕평비 · 영조가 세움",
+  "credit": "Motoko C. K. / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tangpyeongbi_%26_Hamabi.jpg"
+ },
+ "K74": {
+  "file": "K74.webp",
+  "caption": "창덕궁 부용지와 주합루 · 정조가 세운 규장각",
+  "credit": "sellyourseoul / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Changdeokgung_(Palace).jpg"
+ },
+ "K75": {
+  "file": "K75.webp",
+  "caption": "경복궁 근정전",
+  "credit": "Richard Fisher from London, UK / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Seoul-Gyeongbokgung-Geunjeongjeon-01.jpg"
+ },
+ "K77": {
+  "file": "K77.webp",
+  "caption": "우정총국 · 1884년 갑신정변이 일어난 곳",
+  "credit": "Richard Mortel from Riyadh, Saudi Arabia / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Central_Post_Office_building,_Seoul,_1893_(1)_(26259287247).jpg"
+ },
+ "K78": {
+  "file": "K78.webp",
+  "caption": "환구단 황궁우 · 1897년 고종이 황제 즉위식을 올린 환구단",
+  "credit": "etherego / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Hwangungu_Hall_of_the_Wongudan_Altar.jpg"
+ },
+ "K79": {
+  "file": "K79.webp",
+  "caption": "헤이그 리더잘 · 1907년 만국평화회의가 열린 곳",
+  "credit": "Frans Berkelaar / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Ridderzaal_-_Binnenhof_-_Den_Haag_-_NL.jpg"
+ },
+ "K80": {
+  "file": "K80.webp",
+  "caption": "국채보상 영수증 · 1907년 국채보상운동",
+  "credit": "국립중앙박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100100101101481000000"
+ },
+ "K81": {
+  "file": "K81.webp",
+  "caption": "『조선물산장려회보』 · 1930년",
+  "credit": "국립한글박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100203400601756500000"
+ },
+ "K82": {
+  "file": "K82.webp",
+  "caption": "말모이 원고 · 1914년 무렵 만들던 우리말 사전 원고",
+  "credit": "국립한글박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100203400600169700000"
+ },
+ "K86": {
+  "file": "K86.webp",
+  "caption": "메러디스 빅토리호 · 1950년 흥남 철수 때 피란민 1만 4천여 명을 태운 배",
+  "credit": "US Navy / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:SSMeredithVictory.jpg"
+ },
+ "K91": {
+  "file": "K91.webp",
+  "caption": "가야의 철제 갑옷",
+  "credit": "Gary Lee Todd, Ph.D. / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gaya_Confederacy_Iron_Armor_02.jpg"
+ },
+ "K94": {
+  "file": "K94.webp",
+  "caption": "미국 독립선언서 · 1776년",
+  "credit": "Second Continental Congress / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Engrossed_Declaration_of_Independence,_front.jpg"
+ },
+ "K95": {
+  "file": "K95.webp",
+  "caption": "볼턴·와트 증기기관",
+  "credit": "David Maciulaitis from Auckland, New Zealand / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Boulton_%26_Watt_steam_engine,_Sydney_Powerhouse_Museum,_2014_(15240699214).jpg"
+ },
+ "K97": {
+  "file": "K97.webp",
+  "caption": "베를린 장벽 기념관 · 베르나우어 거리",
+  "credit": "Mini1300 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin_Wall_Memorial_site_Bernauer_Stra%C3%9Fe_01.jpg"
+ },
+ "K99": {
+  "file": "K99.webp",
+  "caption": "성균관 은행나무와 명륜당 일대 · 서울",
+  "credit": "Motoko C. K. / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginkgos_in_Seonggyungwan.jpg"
+ },
+ "K100": {
+  "file": "K100.webp",
+  "caption": "『독립신문』 · 1896년 창간",
+  "credit": "국립중앙박물관 / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:%EB%8F%85%EB%A6%BD%EC%8B%A0%EB%AC%B8_%EC%A0%9C4%EA%B6%8C_108%ED%98%B8.jpg"
+ },
+ "L01": {
+  "file": "L01.webp",
+  "caption": "달걀",
+  "credit": "Whitney from Chicago, IL / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Market_Eggs_(4759028378).jpg"
+ },
+ "L02": {
+  "file": "L02.webp",
+  "caption": "냉장고 문쪽 선반에 둔 우유",
+  "credit": "ArnoldReinhold / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Two_milk_gallons_in_refrigerator_door.agr.jpg"
+ },
+ "L04": {
+  "file": "L04.webp",
+  "caption": "구겨진 알루미늄 포일",
+  "credit": "Tony Webster from Minneapolis, Minnesota, Un / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Crinkled_Aluminum_Foil_(45451376615).jpg"
+ },
+ "L07": {
+  "file": "L07.webp",
+  "caption": "나무에 달린 사과",
+  "credit": "Vyacheslav Argenberg / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Kullu_Valley,_Vashisht,_Manali,_Apples,_India.jpg"
+ },
+ "L08": {
+  "file": "L08.webp",
+  "caption": "껍질이 검게 변한 바나나",
+  "credit": "Obsidi♠nSoul / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Overripe_lacatan_bananas.jpg"
+ },
+ "L10": {
+  "file": "L10.webp",
+  "caption": "파란 불꽃의 가스레인지",
+  "credit": "ben britten from Melbourne, Australia / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Playing_with_fire_-_Flickr_-_tauntingpanda.jpg"
+ },
+ "L12": {
+  "file": "L12.webp",
+  "caption": "수증기를 뿜는 가습기",
+  "credit": "Shixart1985 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Modern_air_humidifier._Water_vapor_closeup.jpg"
+ },
+ "L14": {
+  "file": "L14.webp",
+  "caption": "엘리베이터",
+  "credit": "Tony Webster / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Elevator_Doors_Riga_Latvia.jpg"
+ },
+ "L18": {
+  "file": "L18.webp",
+  "caption": "도마와 과도",
+  "credit": "Didriks from Cambridge, MA, USA / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Epicurean_Recycled_Plastic_Cutting_Board_(18529551544).jpg"
+ },
+ "L19": {
+  "file": "L19.webp",
+  "caption": "재활용을 위해 모은 페트병",
+  "credit": "Staff Sgt. Adam Keith / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Making_a_difference,_One_plastic_bottle_at_a_time_140417-A-LU698-067.jpg"
+ },
+ "L20": {
+  "file": "L20.webp",
+  "caption": "다 쓴 건전지",
+  "credit": "John Seb Barber from Leeds, UK / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Electric_batteries.jpg"
+ },
+ "L22": {
+  "file": "L22.webp",
+  "caption": "타이어 공기압 측정기",
+  "credit": "Antti / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Porsche_Tire_Pressure_Gauge_(9207945919).jpg"
+ },
+ "L30": {
+  "file": "L30.webp",
+  "caption": "전기밥솥",
+  "credit": "Quiet Hut / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Rice_Cooker_1.png"
+ },
+ "L35": {
+  "file": "L35.webp",
+  "caption": "손 소독제 디스펜서",
+  "credit": "Mx. Granger / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hand_sanitizer_at_KEF.jpg"
+ },
+ "L37": {
+  "file": "L37.webp",
+  "caption": "베이킹소다(탄산수소나트륨)",
+  "credit": "Tszrkx / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sodium_bicarbonate_CN_brightened.png"
+ },
+ "L38": {
+  "file": "L38.webp",
+  "caption": "조개껍데기",
+  "credit": "Vyacheslav Argenberg / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Koh_Samui,_Seashells,_Southeast_Asia,_Thailand.jpg"
+ },
+ "L43": {
+  "file": "L43.webp",
+  "caption": "곰팡이 핀 빵",
+  "credit": "Muldoonsamuel55 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Moldy_Loaf_of_Bread.jpg"
+ },
+ "L47": {
+  "file": "L47.webp",
+  "caption": "니트 스웨터",
+  "credit": "aslakr / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Grey_knitted_sweater.jpg"
+ },
+ "L48": {
+  "file": "L48.webp",
+  "caption": "그늘에 말리는 운동화",
+  "credit": "http://klarititemplateshop.com/ / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Sneakers_Drying_on_Chinese_Farm_wall_(4139472039).jpg"
+ },
+ "L52": {
+  "file": "L52.webp",
+  "caption": "가습기",
+  "credit": "ajay_suresh / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Humidifier_(51260595296).jpg"
+ },
+ "L53": {
+  "file": "L53.webp",
+  "caption": "소화기",
+  "credit": "Denis kasozi / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Fire_extinguisher_tool.jpg"
+ },
+ "L54": {
+  "file": "L54.webp",
+  "caption": "천장에 단 화재감지기",
+  "credit": "Georg Pik / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Smoke_detector,_Russia_(12).jpg"
+ },
+ "L60": {
+  "file": "L60.webp",
+  "caption": "타이어 홈 속의 마모 한계선",
+  "credit": "VVVN / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Tread_Wear_Indicators_of_Studless_Tire.jpg"
+ },
+ "L61": {
+  "file": "L61.webp",
+  "caption": "드럼 세탁기",
+  "credit": "zzpza / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Washing_Machine_Beko.jpg"
+ },
+ "L65": {
+  "file": "L65.webp",
+  "caption": "유리창에 맺힌 물방울(결로)",
+  "credit": "Pink Sherbet Photography / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Lovelight_Texture_-29_Golden_Water_Droplets_Condensation_on_Glass_(6133977658).jpg"
+ },
+ "L67": {
+  "file": "L67.webp",
+  "caption": "싱크대 아래 배수구 트랩(U자관)",
+  "credit": "Tony Webster / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Leaking_PVC_Pipe_Under_Sink_-_P_Trap_(52842956605).jpg"
+ },
+ "L69": {
+  "file": "L69.webp",
+  "caption": "모기(흰줄숲모기)",
+  "credit": "James Gathany/CDC / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Aedes_Albopictus.jpg"
+ },
+ "L70": {
+  "file": "L70.webp",
+  "caption": "우산",
+  "credit": "DLG Images / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_Umbrella_1.jpg"
+ },
+ "L71": {
+  "file": "L71.webp",
+  "caption": "자동차 앞유리에 낀 성에",
+  "credit": "Jayen466 / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Frost_pattern_on_windscreen_1.jpg"
+ },
+ "L79": {
+  "file": "L79.webp",
+  "caption": "손전등",
+  "credit": "Darron Birgenheier from Reno, NV, USA / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Fenix_P1D_LED_flashlight_(2739718566).jpg"
+ },
+ "L85": {
+  "file": "L85.webp",
+  "caption": "빨래 건조대",
+  "credit": "Kotivalo / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_laundry_on_rack.jpg"
+ },
+ "L86": {
+  "file": "L86.webp",
+  "caption": "걸어서 말리는 수건",
+  "credit": "Jessica F. / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Bathroom_towels.jpg"
+ },
+ "L87": {
+  "file": "L87.webp",
+  "caption": "숫돌에 칼 갈기",
+  "credit": "Didriks / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Whetstone_Knife_Sharpening,_2015-(01).jpg"
+ },
+ "L88": {
+  "file": "L88.webp",
+  "caption": "프라이팬",
+  "credit": "Stangoldsmith / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Frying_pan.JPG"
+ },
+ "L90": {
+  "file": "L90.webp",
+  "caption": "활짝 연 창문",
+  "credit": "Deb Nystrom from Ann Arbor, Michigan, USA / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Open_window,_tapestries_hall_(32551315078).jpg"
+ },
+ "L92": {
+  "file": "L92.webp",
+  "caption": "물줄기가 나오는 샤워기 헤드",
+  "credit": "JovanCormac / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:High_speed_shower_filtered.jpg"
+ },
+ "L98": {
+  "file": "L98.webp",
+  "caption": "벽에 걸어 둔 소화기",
+  "credit": "Mr.ちゅらさん / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Fire_Extinguisher_at_Naka-konoike_Public_Housing_7th_Building.jpg"
+ },
+ "L100": {
+  "file": "L100.webp",
+  "caption": "여러 플러그를 꽂은 멀티탭",
+  "credit": "Leon Brooks / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Four_way_power_board_Australian_plugs.jpg"
+ },
+ "N03": {
+  "file": "N03.webp",
+  "caption": "바다 위로 내리치는 번개",
+  "credit": "Валерия Бобыленко / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Lightning_strike_in_the_evening.jpg"
+ },
+ "N04": {
+  "file": "N04.webp",
+  "caption": "들판에 홀로 선 큰 나무 · 미국 미시간",
+  "credit": "Dwight Burdette / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Lone_Tree_in_a_Field_Clinton_Michigan.JPG"
+ },
+ "N05": {
+  "file": "N05.webp",
+  "caption": "국제우주정거장에서 본 태풍의 눈 · 2014년 태풍 너구리",
+  "credit": "Steve Swanson/NASA / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Eye_of_super_Typhoon_Neoguri_(2014-07-08).jpg"
+ },
+ "N06": {
+  "file": "N06.webp",
+  "caption": "비 갠 뒤 나무 위로 뜬 무지개",
+  "credit": "Freddy Fehmarn / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Rainbow_over_trees_(26559374099).jpg"
+ },
+ "N08": {
+  "file": "N08.webp",
+  "caption": "위성에서 본 황사 · 한반도 2023년 12월(NASA MODIS)",
+  "credit": "MODIS Land Rapid Response Team, NASA GSFC / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Dust_off_the_Korea_Peninsula_(MODIS_2023-12-10).jpg"
+ },
+ "N09": {
+  "file": "N09.webp",
+  "caption": "미세먼지로 뿌옇게 보이는 서울 도심",
+  "credit": "taylorandayumi / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Seoul_tower_smog_and_dusty_view.jpg"
+ },
+ "N10": {
+  "file": "N10.webp",
+  "caption": "낙엽 위에 내린 서리",
+  "credit": "Gerda Arendt / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Frosted_leaves,_Ehrenbach.jpg"
+ },
+ "N11": {
+  "file": "N11.webp",
+  "caption": "가을에 붉게 물든 단풍나무 잎",
+  "credit": "Maja Dumat from Deutschland (Germany) / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:F%C3%A4cherahorn_(Acer_palmatum)_(8153630999).jpg"
+ },
+ "N12": {
+  "file": "N12.webp",
+  "caption": "낙엽이 쌓인 가을 길",
+  "credit": "ronmcc / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Fall_leaves_on_the_Mohawk_bike_path_-_panoramio.jpg"
+ },
+ "N13": {
+  "file": "N13.webp",
+  "caption": "눈 속에서도 푸른 소나무(상록수)",
+  "credit": "Grzegorz W. Tężycki / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Pine_tree_and_traction_pole_~23yczphk.jpg"
+ },
+ "N14": {
+  "file": "N14.webp",
+  "caption": "나무 단면의 나이테",
+  "credit": "Biswarup Ganguly / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Tree_Trunk_Cross_Section_-_Kolkata_2011-06-04_3689.JPG"
+ },
+ "N15": {
+  "file": "N15.webp",
+  "caption": "햇빛에 비친 잎의 잎맥",
+  "credit": "Oak Ridge National Laboratory / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_Populus_leaf_(5736619201).jpg"
+ },
+ "N16": {
+  "file": "N16.webp",
+  "caption": "감자 · 땅속줄기가 굵어진 덩이줄기",
+  "credit": "Forest & Kim Starr / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Starr_070730-7811_Solanum_tuberosum.jpg"
+ },
+ "N17": {
+  "file": "N17.webp",
+  "caption": "고구마 · 뿌리가 굵어진 덩이뿌리",
+  "credit": "စာကလေး SarKaLay / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sweet_Potatos.jpg"
+ },
+ "N18": {
+  "file": "N18.webp",
+  "caption": "반으로 자른 양파 · 잎이 겹겹이 쌓인 비늘줄기",
+  "credit": "Dirk Ingo Franke / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlinwohnung_rote_zwiebel_schnitt_10.04.2012_14-59-48.jpg"
+ },
+ "N19": {
+  "file": "N19.webp",
+  "caption": "대나무 숲",
+  "credit": "Strangeeye 294 / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Bamboo_Grove_(215912603).jpeg"
+ },
+ "N20": {
+  "file": "N20.webp",
+  "caption": "들장미 꽃에 앉은 꿀벌",
+  "credit": "Natalka Ukraine / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Honey_bee_(Apis_mellifera)_on_a_wild_rose_flower,_by_baby-bear.org.jpg"
+ },
+ "N21": {
+  "file": "N21.webp",
+  "caption": "남극의 펭귄 · 날지 못하는 새",
+  "credit": "Christopher Michel / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Penguin_in_Antarctica_jumping_out_of_the_water.jpg"
+ },
+ "N22": {
+  "file": "N22.webp",
+  "caption": "숨을 내뿜는 혹등고래",
+  "credit": "Dronepicr / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Buckelwale_Humpback_Whale_Frazer_Island_(134205583).jpeg"
+ },
+ "N23": {
+  "file": "N23.webp",
+  "caption": "개구리 · 물과 뭍을 오가는 양서류",
+  "credit": "Trougnouf (Benoit Brummer) / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:European_dark-spotted_frog_(DSC05080).jpg"
+ },
+ "N24": {
+  "file": "N24.webp",
+  "caption": "햇볕을 쬐는 도마뱀 · 체온이 바깥 온도를 따르는 변온동물",
+  "credit": "Hari K Patibanda / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:An_Oriental_Garden_Lizard_basking_in_the_sun_(49943977443).jpg"
+ },
+ "N25": {
+  "file": "N25.webp",
+  "caption": "참새",
+  "credit": "Jakub Hałun / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Eurasian_tree_sparrow,_R%C5%BCuch%C3%B3w,_%C5%9Awi%C4%99tokrzyskie_Voivodeship,_20250421_1151_4164.jpg"
+ },
+ "N26": {
+  "file": "N26.webp",
+  "caption": "전깃줄에 앉은 제비",
+  "credit": "Roland Riedel / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Barn_Swallow_(Hirundo_Rustica)_-_juvenile_and_adult.jpg"
+ },
+ "N27": {
+  "file": "N27.webp",
+  "caption": "새의 골격(코끼리새 뼈 그림)",
+  "credit": "Monnier / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Elephant_bird_skeleton.png"
+ },
+ "N28": {
+  "file": "N28.webp",
+  "caption": "물 위에 뜬 소금쟁이",
+  "credit": "Yellowstone National Park / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Water_strider_on_a_pond_in_the_Northern_Range_(41555531295).jpg"
+ },
+ "N29": {
+  "file": "N29.webp",
+  "caption": "지렁이",
+  "credit": "Поляков Александр / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Aporrectodea_rosea_258682963.jpg"
+ },
+ "N30": {
+  "file": "N30.webp",
+  "caption": "나무에 붙은 매미",
+  "credit": "Sid Mosdell / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Chorus_Cicada..._(6926902643).jpg"
+ },
+ "N31": {
+  "file": "N31.webp",
+  "caption": "반딧불이(개똥벌레)",
+  "credit": "gailhampshire from Cradley, Malvern, U.K / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Mating_Firefly_Beetles_-_Flickr_-_gailhampshire.jpg"
+ },
+ "N32": {
+  "file": "N32.webp",
+  "caption": "육각형 방이 가득한 벌집과 꿀벌",
+  "credit": "Thomas Bresson / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:ComputerHotline_-_Apis_mellifera_(by)_(1).jpg"
+ },
+ "N33": {
+  "file": "N33.webp",
+  "caption": "입춘첩 「입춘대길」",
+  "credit": "국립민속박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100200100104502500000"
+ },
+ "N34": {
+  "file": "N34.webp",
+  "caption": "무당개구리 · 봄에 겨울잠에서 깨어난다",
+  "credit": "bsmouse / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Bombina_orientalis_76063519.jpg"
+ },
+ "N36": {
+  "file": "N36.webp",
+  "caption": "썰물 때 드러난 갯벌",
+  "credit": "Frank Kovalchek / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:The_mudflats_in_Turnagain_Arm_at_low_tide_(IMG_1189a)_(3587499039).jpg"
+ },
+ "N37": {
+  "file": "N37.webp",
+  "caption": "땅에 떨어진 우박",
+  "credit": "James St. John / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Hailstones_(mid-afternoon,_15_October_2024)_(Ohio_State_University_at_Newark_campus,_Newark,_Ohio,_USA)_2.jpg"
+ },
+ "N38": {
+  "file": "N38.webp",
+  "caption": "강 위에 낀 새벽 안개",
+  "credit": "Ximonic (Simo Räsänen) / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Morning_fog_over_Keravanjoki_river_in_Vantaa,_Finland,_2021_October.jpg"
+ },
+ "N42": {
+  "file": "N42.webp",
+  "caption": "눈 결정(접사 사진)",
+  "credit": "Alexey Kljatov / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Real_snowflake_macro_photo_-_Flickr_-_Alexey_Kljatov.jpg"
+ },
+ "N49": {
+  "file": "N49.webp",
+  "caption": "매화",
+  "credit": "Chihiro H / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Prunus_Mume_%E9%87%8E%E6%A2%85_(139510285).jpeg"
+ },
+ "N50": {
+  "file": "N50.webp",
+  "caption": "국화",
+  "credit": "Jebulon / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_x_morifolium_Dompierre_3.jpg"
+ },
+ "N52": {
+  "file": "N52.webp",
+  "caption": "눈을 맞은 봄꽃",
+  "credit": "Natalka Ukraine / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Poplar_tree_broken_by_April_2017_winter_storm_in_Dnipro_16.jpg"
+ },
+ "N55": {
+  "file": "N55.webp",
+  "caption": "위성에서 본 태풍 · 2020년 태풍 마이삭(NASA MODIS)",
+  "credit": "MODIS Land Rapid Response Team, NASA GSFC / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Typhoon_Maysak_strikes_South_Korea_(MODIS_2020-09-03).jpg"
+ },
+ "N56": {
+  "file": "N56.webp",
+  "caption": "밤하늘의 불꽃놀이",
+  "credit": "Colin and Sarah Northway from Wherever, We f / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Guy_Fawkes_(15788928986).jpg"
+ },
+ "N57": {
+  "file": "N57.webp",
+  "caption": "소나무 수꽃 · 송홧가루가 여기서 날린다",
+  "credit": "Nesnad / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Male_flowers_of_pine_trees_-_Kanagawa_-_2024_April_10_various.jpeg"
+ },
+ "N58": {
+  "file": "N58.webp",
+  "caption": "숲속에서 자라는 어린 소나무",
+  "credit": "Trougnouf (Benoit Brummer) / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Pinus_wallichiana_(DSC03147).jpg"
+ },
+ "N59": {
+  "file": "N59.webp",
+  "caption": "은행나무 열매",
+  "credit": "Love Krittaya / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba_seeds-002.jpg"
+ },
+ "N60": {
+  "file": "N60.webp",
+  "caption": "숲 바닥에 쌓인 낙엽",
+  "credit": "ShenandoahNPS / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Fresh_Leaf_Litter_(50691602157).jpg"
+ },
+ "N64": {
+  "file": "N64.webp",
+  "caption": "꽃꿀을 빠는 나비",
+  "credit": "Hari K Patibanda / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Common_Mime_Butterfly_feeding_on_the_nectar_of_a_flower_(48497088027).jpg"
+ },
+ "N66": {
+  "file": "N66.webp",
+  "caption": "거미줄에 앉은 거미 · 다리가 8개",
+  "credit": "JaqNotJill / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Yellow_Garden_Spider_in_PA.jpeg"
+ },
+ "N67": {
+  "file": "N67.webp",
+  "caption": "나뭇가지에 앉은 잠자리",
+  "credit": "Samuel Levy / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Dragonfly_Perched_(168699287).jpeg"
+ },
+ "N69": {
+  "file": "N69.webp",
+  "caption": "싹이 잔뜩 난 감자",
+  "credit": "Sheila Sund from Salem, United States / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Potato_%22coral%22_(33731294213).jpg"
+ },
+ "N74": {
+  "file": "N74.webp",
+  "caption": "산속 계곡물",
+  "credit": "Daderot / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Oirase_Mountain_Stream_-_Towada,_Aomori_-_DSC01162.jpg"
+ },
+ "N75": {
+  "file": "N75.webp",
+  "caption": "이안류 경고 표지판 · 미국 하와이",
+  "credit": "dronepicr / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Warning_Rip_Currents_Kauai_Hawaii_(46277428731).jpg"
+ },
+ "N76": {
+  "file": "N76.webp",
+  "caption": "밤하늘을 가르는 별똥별(페르세우스 유성우)",
+  "credit": "Jared Tennant / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Perseid_meteor_shower.jpg"
+ },
+ "N77": {
+  "file": "N77.webp",
+  "caption": "차고 기우는 달의 모양",
+  "credit": "David Warrington / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Lunar_Phases_(10410930423).jpg"
+ },
+ "N78": {
+  "file": "N78.webp",
+  "caption": "캐나다 펀디만 호프웰 록스 · 밀물과 썰물의 차가 매우 큰 곳",
+  "credit": "Andrea Schaffer from Sydney, Australia / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Hopewell_Rocks_(7617759278).jpg"
+ },
+ "N79": {
+  "file": "N79.webp",
+  "caption": "순천만 갯벌과 갈대밭 · 전남 순천",
+  "credit": "최광모 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:20150808%EC%B5%9C%EA%B4%91%EB%AA%A8RX10DSC01732.JPG"
+ },
+ "P01": {
+  "file": "P01.webp",
+  "caption": "등잔대(기름을 담아 불을 켜던 등잔)",
+  "credit": "전라남도농업박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100302500101028200000"
+ },
+ "P03": {
+  "file": "P03.webp",
+  "caption": "「외양간 안」 · 다비트 테니르스 2세 그림",
+  "credit": "David Teniers the Younger / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:David_Teniers_II_(1610-1690)_-_Interior_of_a_Cowshed_-_WM.1595-1948_-_Apsley_House.jpg"
+ },
+ "P06": {
+  "file": "P06.webp",
+  "caption": "나무 수레",
+  "credit": "작자 미상 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mongolian_wooden_cart.jpg"
+ },
+ "P08": {
+  "file": "P08.webp",
+  "caption": "호랑이(시베리아호랑이)",
+  "credit": "Alias 0591 from the Netherlands / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Dierenpark_Emmen_Siberian_tiger_(8672941942).jpg"
+ },
+ "P09": {
+  "file": "P09.webp",
+  "caption": "나무 위의 원숭이",
+  "credit": "25 OClock / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Spider_monkey_on_tree.jpg"
+ },
+ "P10": {
+  "file": "P10.webp",
+  "caption": "떡잎이 난 새싹",
+  "credit": "Kolathunadu8 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lagerstroemia_microcarpa_seedling_with_cotyledons_%E0%B4%B5%E0%B5%86%E0%B5%BA%E0%B4%A4%E0%B5%87%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D_%E0%B4%A4%E0%B5%88_09.jpg"
+ },
+ "P15": {
+  "file": "P15.webp",
+  "caption": "김홍도 「서당」 · 단원 풍속도첩",
+  "credit": "Kim Hong-do / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Danwon_Seodang.jpg"
+ },
+ "P18": {
+  "file": "P18.webp",
+  "caption": "강가에 매어 둔 작은 배",
+  "credit": "JustinH / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rowboat_and_yachts_on_Huon_River.jpg"
+ },
+ "P19": {
+  "file": "P19.webp",
+  "caption": "진천 농다리 · 돌을 쌓아 만든 옛 다리",
+  "credit": "Cultural Heritage Administration, South Kore / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:%EC%A7%84%EC%B2%9C_%EB%86%8D%EB%8B%A4%EB%A6%AC_(%EB%AC%B4%EC%9D%B8).jpg"
+ },
+ "P20": {
+  "file": "P20.webp",
+  "caption": "통나무에 박힌 도끼",
+  "credit": "cogdogblog / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:I_was_chopping_up_the_last_big_pieces_of_firewood_to_stack,_and_on_the_last_swing_the_axe_head_was_gone_-_I_ducked_thinking_it_was_flung_in_the_air,_but_it_just_completely_separated_from_the_handle._(2543296343).jpg"
+ },
+ "P26": {
+  "file": "P26.webp",
+  "caption": "쪽 · 남색 물감을 얻는 풀",
+  "credit": "Daderot / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Persicaria_tinctoria_-_Bergianska_tr%C3%A4dg%C3%A5rden_-_Stockholm,_Sweden_-_DSC00311.JPG"
+ },
+ "P35": {
+  "file": "P35.webp",
+  "caption": "말의 귀",
+  "credit": "Just chaos / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Quarter_Horse_Pony_Silver_Ears.jpg"
+ },
+ "P41": {
+  "file": "P41.webp",
+  "caption": "연기가 나는 굴뚝",
+  "credit": "Kiwiev / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chimney_with_smoke_pollution_-_CC0_1.0_Universal_Public_Domain_Dedication.jpg"
+ },
+ "P42": {
+  "file": "P42.webp",
+  "caption": "무지개떡",
+  "credit": "lesterhe / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_rice_cake-Mujigae_tteok-01.jpg"
+ },
+ "P45": {
+  "file": "P45.webp",
+  "caption": "동치미",
+  "credit": "karendotcom127 / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean-Dongchimi-01.jpg"
+ },
+ "P46": {
+  "file": "P46.webp",
+  "caption": "누렇게 익어 고개 숙인 벼",
+  "credit": "Sasmit Adhikari / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Paddy_fields_in_mountain_region.jpg"
+ },
+ "P52": {
+  "file": "P52.webp",
+  "caption": "돌로 쌓은 옛 우물",
+  "credit": "Matvey Andreyev / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA_%D0%B2_%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%BE%D0%BC_%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D0%BE%D0%BC_%D0%BA%D0%BE%D0%BB%D0%BE%D0%B4%D1%86%D0%B5_-_A_spring_in_a_little_stone_well_-_panoramio.jpg"
+ },
+ "P64": {
+  "file": "P64.webp",
+  "caption": "가재",
+  "credit": "미국 어류·야생동물관리국(USFWS) / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Usfws-guyandotte-river-crayfish-large.jpg"
+ },
+ "P66": {
+  "file": "P66.webp",
+  "caption": "상평통보(엽전)",
+  "credit": "조선 균역청 주조 / 위키미디어 공용",
+  "license": "퍼블릭 도메인",
+  "page": "https://commons.wikimedia.org/wiki/File:Sangpyeong_Tongbo_(%E5%B8%B8%E5%B9%B3%E9%80%9A%E5%AF%B3)_-_Government_Tithe_Office_(%E5%9D%87%E5%BD%B9%E5%BB%B3)_Mother_coin_-_Namchongcoin_01.jpg"
+ },
+ "P69": {
+  "file": "P69.webp",
+  "caption": "콩·팥 등 잡곡",
+  "credit": "KOCIS (Korean Culture and Information Servic / 위키미디어 공용",
+  "license": "공공누리 제1유형",
+  "page": "https://commons.wikimedia.org/wiki/File:Ogokbap_ingredients.jpg"
+ },
+ "P71": {
+  "file": "P71.webp",
+  "caption": "감",
+  "credit": "TorbeyCharbel / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Kaki_persimmon.jpg"
+ },
+ "P72": {
+  "file": "P72.webp",
+  "caption": "땅에서 먹이를 찾는 참새",
+  "credit": "Hari K Patibanda / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:A_House_Sparrow_looking_for_grains_(50590191521).jpg"
+ },
+ "P75": {
+  "file": "P75.webp",
+  "caption": "실에 꿴 구슬",
+  "credit": "메트로폴리탄 미술관 / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Strung_Beads_MET_vs64_228_713.jpg"
+ },
+ "P78": {
+  "file": "P78.webp",
+  "caption": "안경과 안경집(조선 후기)",
+  "credit": "국립중앙박물관",
+  "license": "공공누리 제1유형",
+  "page": "https://www.emuseum.go.kr/detail?relicId=PS0100100102400338100000"
+ },
+ "P80": {
+  "file": "P80.webp",
+  "caption": "맑은 시냇물",
+  "credit": "rheins / 위키미디어 공용",
+  "license": "CC BY 3.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%B8%85%E6%B5%81_-_Clear_Stream_-_2011.10_-_panoramio.jpg"
+ },
+ "P85": {
+  "file": "P85.webp",
+  "caption": "파란 가을 하늘과 단풍",
+  "credit": "Iurie Nistor / 위키미디어 공용",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Autumn_Sky_at_Ciocana.jpg"
+ },
+ "P86": {
+  "file": "P86.webp",
+  "caption": "번개",
+  "credit": "Maxime Raynal / 위키미디어 공용",
+  "license": "CC BY 2.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg"
+ },
+ "P87": {
+  "file": "P87.webp",
+  "caption": "두루미(학)",
+  "credit": "Nathan Ruser / 위키미디어 공용",
+  "license": "CC BY 4.0 · 크기 조정",
+  "page": "https://commons.wikimedia.org/wiki/File:Grus_japonensis_336788797.jpg"
  }
 }
