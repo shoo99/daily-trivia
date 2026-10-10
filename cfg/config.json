@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "flags": { "duel": true, "stats": true, "photos": true, "books": true, "ageAd": true, "shelfShare": true },
+  "numbers": {
+    "practiceDayCap": 30,
+    "statsServerMin": 5,
+    "statsHardMin": 10,
+    "prices": { "walnut": 500, "white": 450, "hanok": 400, "spring": 600, "plant": 100, "glass": 80, "tea": 150, "cat": 300, "stand": 200, "globe": 250 }
+  },
+  "dates": { "moneyFrom": "2026-10-14", "newFrom": "2026-10-15" }
+}
